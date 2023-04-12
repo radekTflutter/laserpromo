@@ -1,0 +1,273 @@
+form
+{
+    margin-bottom: 20px;
+}
+
+table
+{
+    border-spacing: 0;
+}
+
+th, td
+{
+    border: 1px solid white;
+    padding: 5px;
+    text-align: center;
+}
+#panel{
+width: 410px; 
+margin: 0 auto; 
+padding: 15px 0 0;
+background: #fff;
+border: 1px solid silver;
+font: 16px calibri;
+letter-spacing: -1px;
+-webkit-box-shadow: 0 0 2px silver; 
+-moz-box-shadow: 0 0 2px silver; 
+box-shadow: 0 0 2px silver;
+}
+
+
+form{
+display: block;
+width: 260px;
+padding: 10px 20px;
+color: #696969;
+font-size: 16px;
+text-shadow: 0 0 1px silver;
+}
+
+#username, #password 
+{
+display: block;
+width: 360px; 
+margin: 0 auto;
+padding: 10px 5px;
+border: 1px solid silver;
+outline: 5px solid #ebebeb;
+font-size: 22px;
+}
+#username:focus, #password:focus 
+{
+outline: 5px solid #e5f2f8;
+}
+
+.inner {
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    max-width: 440px;
+ 
+}
+
+.check {
+display: inline;
+float: none;
+font-size: 11px;
+padding: 5px;
+}
+input[type="submit"] {
+width: 90px;
+padding: 5px 13px;
+border: 1px solid #005f85;
+color: white;
+font-size: 16px;
+font: bold 16px Georgia, serif;
+text-shadow: 0 0 1px black;
+background: #98c9dc;
+position: relative;
+left: 280px;
+}
+
+#panel, input[type="submit"] {
+    -webkit-border-radius: 5px; 
+    -moz-border-radius: 5px; 
+    border-radius: 5px; 
+}
+
+form {
+margin: 0;
+}
+
+#logindiv
+{
+float: left;
+width: 7px;
+height: 8px;
+margin-left: 700px;
+font-size: 8pt;
+color: #164aa0;
+}
+
+#ad22
+{
+display: inline;
+float: center;
+width: 180px;
+height: 100px;
+margin: 10px 0px 0px 30px;
+border: 0px;
+padding: 10px;
+}
+#pic
+{
+float: center;
+text-align: center;
+}
+#logo2
+{
+background-color: white;
+color: #164aa0;
+text-align: center;
+padding: 8px;
+float: center;
+} 
+
+#formlogin
+{
+background-color: blank;
+
+position: absolute;
+margin-right: auto;
+margin-left: auto;
+
+color: white;
+text-align: center;
+padding: 8px;
+float: center;
+
+} 
+
+#panellogin
+{
+    BACKGROUND-COLOR: #164aa0;
+
+    width: 400px; 
+    height: 25px;
+        
+    margin: 0 auto; 
+    padding: 15px 0 0;
+    background: radial-gradient(#164aa0, #032660);
+
+    border: 1px solid silver;
+    font: 16px calibri;
+    letter-spacing: -1px;
+    -webkit-box-shadow: 0 0 2px silver; 
+    -moz-box-shadow: 0 0 2px silver; 
+    box-shadow: 0 0 2px silver;
+    }
+
+#panellogin2
+{
+BACKGROUND-COLOR: #bdb8b8;
+    
+width: 398px; 
+        height: 55px;
+        margin: 0 auto; 
+        padding: 15px 0 0;
+        background: rgb(230,230,230);
+        
+        border: 1px solid silver;
+        font: 16px calibri;
+        letter-spacing: -1px;
+        -webkit-box-shadow: 0 0 2px silver; 
+        -moz-box-shadow: 0 0 2px silver; 
+        box-shadow: 0 0 2px silver;
+        }
+
+#panellogin3
+        {
+            BACKGROUND-COLOR: silver;
+        
+            width: 400px; 
+            height: 70px;
+                
+            margin: 0 auto; 
+            padding: 15px 0 0;
+            background: grey;
+
+            border: 1px solid silver;
+            font: 16px calibri;
+            letter-spacing: -1px;
+            -webkit-box-shadow: 0 0 2px silver; 
+            -moz-box-shadow: 0 0 2px silver; 
+            box-shadow: 0 0 2px silver;
+            }
+
+.button {
+background-color: #efefef;
+border: 1px solid #bbbbbb;
+-moz-border-radius: 3px;
+-webkit-border-radius: 3px;
+border-radius: 7px;
+-moz-box-shadow: 2px 2px 3px #cccccc;
+-webkit-box-shadow: 2px 2px 3px #cccccc;
+box-shadow: 2px 2px 3px #cccccc;
+text-decoration: none;
+color: #3d3d3d;
+font-family: Calibri, Verdana, Arial, sans-serif;
+font-size: 18px;
+outline: none;
+padding: 3px 10px;
+}
+             
+.button:active {
+-moz-box-shadow: 2px 2px 3px #cccccc inset;
+-webkit-box-shadow: 2px 2px 3px #cccccc inset;
+box-shadow: 2px 2px 3px #cccccc inset;
+}
+              
+
+
+#formlogin2
+{
+background-color: blank;
+margin-top: 65px;
+color: #164aa0;
+float: left;
+font-size: 16pt;
+} 
+
+#logindiv
+{
+float: left;
+width: 7px;
+height: 8px;
+margin-left: 900px;
+font-size: 8pt;
+color: #164aa0;
+}
+
+ 
+#formlogin:focus
+{
+outline: 5px solid #e5f2f8;
+}
+
+#logindivleft
+{
+float: left;
+margin-left: 200px;
+color: #164aa0;
+font-size: 10pt;
+}
+
+#centered
+{
+float: center;
+margin-left: 200px;
+color: #164aa0;
+font-size: 10pt;
+}
+
+#nazwaprojektu5
+{
+float: left;
+margin: 0 auto;
+padding: 1px;
+margin-top: 7px;
+margin-left: 315px;
+}
+
+
+.centered { margin-left: auto; margin-right: auto; }

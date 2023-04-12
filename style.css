@@ -1,0 +1,853 @@
+#container
+{
+width: 1080px;
+margin-left: auto;
+margin-right: auto;
+height: 10px;
+
+}
+
+#logo
+{
+background-color: white;
+color: #164aa0;
+text-align: center;
+padding: 8px;
+float: center;
+
+} 
+
+#nazwaprojektu5
+{
+float: left;
+padding: 1px;
+margin-top: 7px;
+margin-left: 315px;
+}
+
+#pic
+{
+text-align: center;
+
+}
+
+#ident
+{
+float: left;
+width: 400px;
+height: 100px;
+margin-left: 142px;
+font-size: 8pt;
+color: #164aa0;
+}
+
+
+.centered { margin: auto; width: 1270px; }
+
+
+#ramka
+{
+border-color: skyblue;
+text-align: center;
+}
+
+#kluczyk
+{
+float: left;
+width: 10px;
+height: 100px;
+margin-left: 10px;
+font-size: 8pt;
+color: #164aa0;
+}
+
+#laser
+{
+float: left;
+margin-left: 12px;
+color: #164aa0;
+font-size: 10pt;
+}
+#laserplace
+{
+float: left;
+margin-left: 6px;
+text-align: center;
+text-align-last: center;
+padding: 4px;
+}
+
+
+#ramkanazwaproj, 
+{
+display: block;
+width: auto; 
+margin: 0 auto;
+padding: 10px 5px;
+border: 1px solid silver;
+outline: 5px solid #ebebeb;
+font-size: 22px;
+}
+#ramkanazwaproj:focus,
+{
+outline: 5px solid #e5f2f8;
+}
+
+.check {
+display: inline;
+float: none;
+font-size: 11px;
+padding: 5px;
+}
+input[type="text"] {
+width: 340px;
+
+height: 21px;
+padding: 5px 13px;
+border: 1px solid #005f85;
+color: black;
+text-shadow: 0 0 0 black;
+background: #e4e9f7;
+position: relative;
+left: -15px;
+}
+
+#ad2
+{
+display: inline;
+float: center;
+width: 100px;
+height: 90px;
+
+margin: 10px 0px 0px 30px;
+border: 0px;
+padding: 10px;
+}
+
+form {
+text-align: center;
+}
+
+input 
+{
+float: left;
+}
+
+#odstep
+{
+float: left;
+}
+
+#rodzaj
+{
+float: left;
+margin-left: 100px;
+color: #164aa0;
+font-size: 10pt;
+text-align
+}
+#rodzajplace
+{
+float: left;
+margin-left: 100px;
+align-content: center;
+text-align-last: center;
+padding: 4px;
+}
+
+#numer
+{
+float: left;
+margin-left: 90px;
+color: #164aa0;
+font-size: 10pt;
+}
+#numerplace
+{
+float: left;
+margin-left: 150px;
+align-content: center;
+text-align-last: center;
+padding: 4px;
+}
+
+#numerplace2
+{
+float: left;
+margin-left: 90px;
+align-content: center;
+text-align-last: center;
+padding: 4px;
+}
+
+#prasa
+{
+float: left;
+margin-left: 90px;
+color: #164aa0;
+font-size: 10pt;
+}
+#prasaplace
+{
+float: left;
+margin-left: 166px;
+text-align-last: center;
+padding: 4px;
+border-color: skyblue;
+text-align: center;
+
+}
+
+
+#pole
+{
+float: left;
+margin-left: 100px;
+color: #164aa0;
+font-size: 10pt;
+
+}
+#dataplace
+{
+float: left;
+margin-left: 100px;
+
+}
+
+#datepicker
+{
+text-align-last: center;
+
+}
+
+#specprojektu
+{
+float: left;
+margin-left: 12px;
+color: #164aa0;
+font-size: 10pt;
+}
+
+#ramkaspecproj
+{
+float: left;	
+width: 10px;
+height: 10px;
+margin-left: 10px;
+font-size: 8pt;
+color: #164aa0;
+}
+
+#secprojramka
+{
+border-color: skyblue;
+text-align: center;
+}
+
+
+#nazwaproj
+{
+float: left;
+margin-left: 12px;
+color: #164aa0;
+font-size: 10pt;
+}
+
+#ramkanazwaproj
+{
+float: left;
+width: 10px;
+height: 10px;
+margin-left: 118px;
+font-size: 8pt;
+color: #164aa0;
+}
+
+#nazwaprojramka
+{
+border-color: skyblue;
+text-align: center;
+}
+
+
+#plikxml
+{
+float: left;
+margin-left: 12px;
+color: #164aa0;
+font-size: 10pt;
+}
+
+#ramkaplikxml
+{
+float: left;
+width: 10px;
+height: 10px;
+margin-left: 235px;
+font-size: 8pt;
+color: #164aa0;
+}
+
+#plikxmlramka
+{
+border-color: skyblue;
+text-align: center;
+}
+
+
+#pliktxt
+{
+float: left;
+margin-left: 12px;
+color: #164aa0;
+font-size: 10pt;
+}
+
+#ramkapliktxt
+{
+float: left;
+width: 10px;
+height: 10px;
+margin-left: 120px;
+font-size: 8pt;
+color: #164aa0;
+}
+
+#pliktxtramka
+{
+border-color: skyblue;
+text-align: center;
+}
+input[type="file"] {
+width: 270px;
+padding: 5px 28px;
+margin-left: -16px;
+
+border: 1px solid #005f85;
+color: white;
+text-shadow: 0 0 1px black;
+background: #98c9dc;
+position: center;
+left: -15px;
+}
+
+input[type="date"] {
+
+  border: px solid #e4e9f7;
+  color: black;
+  
+    border-color: skyblue;
+    text-align: right;
+    
+ 
+  }
+
+#paraminne
+{
+float: right;
+margin-left: 12px;
+color: #164aa0;
+font-size: 10pt;
+}
+#infonadruku
+{
+float: left;
+margin-left: 12px;
+color: #164aa0;
+font-size: 10pt;
+}
+#dodajzdjecie
+{
+float: left;
+color: #164aa0;
+font-size: 10pt;
+}																																								
+#infonadruku2
+{
+float: left;
+margin-left: 12px;
+color: #164aa0;
+font-size: 10pt;
+}
+
+#infonadruku3
+{
+float: left;
+margin-left: 12px;
+color: #164aa0;
+font-size: 10pt;
+}
+#infonadruku4
+{
+float: right;
+margin-left: 12px;
+color: #164aa0;
+font-size: 10pt;
+}
+#paramlaser
+{
+float: left;
+margin-left: 12px;
+color: #164aa0;
+font-size: 10pt;
+}
+
+.container {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 22px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+ 
+.container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+ 
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  background-color: #eee;
+}
+
+
+.container:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+
+ 
+.container input:checked ~ .checkmark {
+  background-color: #164aa0;
+}
+
+ 
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+ 
+.container input:checked ~ .checkmark:after {
+  display: block;
+}
+
+ 
+.container .checkmark:after {
+  left: 9px;
+  top: 5px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+
+
+#wiersz1
+{
+float: left;
+margin-left: 12px;
+color: #164aa0;
+font-size: 10pt;
+border-color: skyblue;
+text-align
+}
+#1wiersz
+{
+front-color: skyblue;
+
+}
+
+#wiersz1liczba
+{
+float: left;
+margin-left: 12px;
+color: #164aa0;
+font-size: 10pt;
+}
+
+
+#wiersz2
+{
+float: left;
+margin-left: 12px;
+color: #164aa0;
+font-size: 10pt;
+}
+
+
+#wiersz2liczba
+{
+float: left;
+margin-left: 12px;
+color: #164aa0;
+font-size: 10pt;
+}
+
+
+#wiersz3
+{
+float: left;
+margin-left: 12px;
+color: #164aa0;
+font-size: 10pt;
+}
+
+
+#wiersz3liczba
+{
+float: left;
+margin-left: 12px;
+color: #164aa0;
+font-size: 10pt;
+}
+
+#infonadrukudivlewo
+{
+float: left;
+margin-left: 2px;
+color: #164aa0;
+font-size: 10pt;
+}
+
+#infonadrukudivprawo
+{
+float: left;
+margin-right: 22px;
+color: #164aa0;
+padding: -25px;
+font-size: 10pt;
+}
+
+#grafika
+{
+float: left;
+margin-left: 12px;
+color: #164aa0;
+font-size: 10pt;
+}
+
+#grafikaramka
+{
+float: left;
+width: 10px;
+height: 10px;
+margin-left: 10px;
+font-size: 8pt;
+color: #164aa0;
+}
+
+#grafikaramkanapis, #stacja1xramkanapis, #stacja1yramkanapis, #stacja2xramkanapis, #stacja2yramkanapis, #predkosc, #czestotliwosc, #inne
+{
+border-color: skyblue;
+text-align: center;
+}
+
+#nazwaczcionki, #wielkosc, #szerokosc, #odstepmiedzyznakami, #odstepmiedzywierszami, #inne22, #inne11
+{
+border-color: skyblue;
+text-align: center;
+}
+
+#wiersz1liczba
+{
+border-color: skyblue;
+text-align: center;
+}
+
+
+#napisstaly
+{
+float: left;
+margin-left: 62px;
+color: #164aa0;
+font-size: 10pt;
+}
+
+#ramkanapisstaly
+{
+float: left;
+width: 10px;
+height: 10px;
+margin-left: 10px;
+font-size: 8pt;
+color: #164aa0;
+}
+
+#napisstalyramka
+{
+border-color: skyblue;
+text-align: center;
+}
+#napisramkainne
+{
+border-color: skyblue;
+text-align: center;
+}
+#inne11
+{
+float: left;
+margin-left: 212px;
+color: #164aa0;
+font-size: 10pt;
+}
+#imagediv
+{
+float: left;
+margin-left: 45px;
+
+color: #164aa0;
+font-size: 10pt;
+}
+#nazwazdjeciadiv
+{
+float: left;
+margin-left: 15px;
+color: #164aa0;
+font-size: 10pt;
+}
+#inne2
+{
+float: left;
+margin-left: 212px;
+color: #164aa0;
+font-size: 10pt;
+}
+
+#uwagi
+{
+
+margin-left: 510px;
+color: #164aa0;
+font-size: 10pt;
+}
+
+#uwagiramka
+{
+
+width: 10px;
+height: 10px;
+margin-left: 400px;
+font-size: 8pt;
+color: #164aa0;
+}
+
+#ramkauwagi
+{
+border-color: skyblue;
+text-align
+}
+
+#logindivleft
+{
+float: left;
+margin-left: 200px;
+color: #164aa0;
+font-size: 10pt;
+}
+
+#logindiv
+{
+float: left;
+width: 7px;
+height: 8px;
+margin-left: 900px;
+font-size: 8pt;
+color: #164aa0;
+}
+
+#logindivleft
+{
+float: left;
+margin-left: 200px;
+color: #164aa0;
+font-size: 10pt;
+}
+
+#stacja1x
+{
+float: left;
+margin-left: 12px;
+color: #164aa0;
+font-size: 10pt;
+}
+
+#grafikaramka
+{
+float: left;
+width: 10px;
+height: 10px;
+margin-left: 10px;
+font-size: 8pt;
+color: #164aa0;
+}
+
+#stacja1xramkanapis
+{
+border-color: skyblue;
+text-align: center;
+}
+
+
+
+
+.styled-select select {
+   background: transparent;
+   border: none;
+   font-size: 12px;
+   height: 25px;
+   padding: 5px; 
+   width: 170px;
+}
+
+
+.blue    { background-color: #e4e9f7; }
+
+
+.styled-selected select {
+   background: transparent;
+   border: none;
+   font-size: 14px;
+   height: 24px;
+   padding: 5px; 
+   width: 100px;
+}
+
+
+.black    { background-color: #e4e9f7; }
+
+.styled-selected2 select {
+   background: transparent;
+   border: none;
+   font-size: 14px;
+   height: 24px;
+   padding: 5px; 
+   width: 50px;
+}
+
+
+.black    { background-color: #e4e9f7; }
+
+.styled-selected3 select {
+   background: transparent;
+   border: none;
+   font-size: 14px;
+   height: 25px;
+   padding: 5px; 
+   width: 50px;
+}
+
+
+.black    { background-color: #e4e9f7; }
+
+.styled-selected3 select {
+   background: transparent;
+   border: none;
+   font-size: 14px;
+   height: 25px;
+   padding: 5px; 
+   width: 50px;
+}
+
+
+.black    { background-color: #e4e9f7; }
+
+
+
+
+form
+{
+    margin-bottom: 20px;
+}
+
+table
+{
+    border-spacing: 0;
+}
+
+th, td
+{
+    border: 1px solid white;
+    padding: 5px;
+    text-align: center;
+}
+#panel1{
+width: 410px; 
+margin: 0 auto; 
+padding: 15px 0 0;
+background: #fff;
+border: 1px solid silver;
+font: 16px calibri;
+letter-spacing: -1px;
+-webkit-box-shadow: 0 0 2px silver; 
+-moz-box-shadow: 0 0 2px silver; 
+box-shadow: 0 0 2px silver;
+}
+
+
+
+#wstaw, #wstecz 
+{
+display: block;
+width: 360px; 
+margin: 0 auto;
+padding: 10px 5px;
+border: 1px solid silver;
+outline: 5px solid #ebebeb;
+font-size: 22px;
+}
+#wstaw:focus, #wstecz:focus 
+{
+outline: 5px solid #e5f2f8;
+}
+
+.check {
+display: inline;
+float: none;
+font-size: 11px;
+padding: 5px;
+}
+input[type="submit"] {
+width: 70px;
+padding: 5px 13px;
+border: 1px solid #005f85;
+color: white;
+text-shadow: 0 0 1px black;
+background: #98c9dc;
+position: relative;
+left: -15px;
+}
+
+#panel1, input[type="submit"] {
+    -webkit-border-radius: 5px; 
+    -moz-border-radius: 5px; 
+    border-radius: 5px; 
+}
+
+
+form {
+margin: 0;
+}
+
+#wsteczplace
+{
+margin-left: 375px;
+}

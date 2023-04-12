@@ -1,0 +1,244 @@
+
+
+
+form
+{
+    margin-bottom: 20px;
+}
+
+table
+{
+    border-spacing: 0;
+}
+
+th, td
+{
+    border: 1px solid white;
+    padding: 5px;
+    text-align: center;
+}
+
+#panel1{
+width: 410px; 
+margin: 0 auto; 
+padding: 10px 1px 0px 10px;
+background: #fff;
+border: 1px solid silver;
+font: 16px calibri;
+letter-spacing: -1px;
+-webkit-box-shadow: 0 0 2px silver; 
+-moz-box-shadow: 0 0 2px silver; 
+box-shadow: 2px 2px 6px 6px silver;
+}
+
+form{
+display: block;
+width: 120px;
+padding: 10px 40px;
+color: #696969;
+font-size: 16px;
+text-shadow: 0 0 1px blue;
+float: center;
+}
+
+#formularz {
+    display: block;
+    width: 165px;
+    height: 60px;
+    margin: 0px;
+    padding: 10px 5px;
+    border: 1px solid silver;
+    outline: 5px solid #ebebeb;
+    font-size: 22px;
+ 
+    left: -32px;
+}#wyswietlanie 
+{
+display: block;
+width: auto; 
+margin: 5px;
+padding: 10px 5px;
+border: 1px solid silver;
+outline: 5px solid #ebebeb;
+font-size: 22px;
+}
+#wyswietlanie22 
+{
+display: block;
+width: 315px; 
+margin: 15px;
+padding: 10px 5px;
+border: 1px solid silver;
+outline: 5px solid #ebebeb;
+font-size: 22px;
+}
+
+#formularz:focus, #wyswietlanie:focus 
+{
+outline: 5px solid #e5f2f8;
+}
+
+.check {
+display: inline;
+float: none;
+font-size: 11px;
+padding: 5px;
+}
+input[type="submit"] {
+width: 70px;
+padding: 5px 13px;
+border: 1px solid #005f85;
+color: white;
+text-shadow: 0 0 1px black;
+background: radial-gradient(#164aa0, #032660);
+position: relative;
+left: -15px;
+}
+
+#panel1, input[type="submit"] {
+    -webkit-border-radius: 5px; 
+    -moz-border-radius: 5px; 
+    border-radius: 5px; 
+}
+
+
+form {
+margin: 0;
+}
+
+#ad22
+{
+display: inline;
+float: center;
+width: 180px;
+height: 100px;
+margin: 10px 0px 0px 30px;
+border: 0px;
+padding: 10px;
+}
+
+#pic
+{
+float: center;
+text-align: center;
+}
+
+#logindiv
+{
+float: left;
+width: 7px;
+height: 8px;
+margin-left: 70px;
+font-size: 8pt;
+color: #164aa0;
+}
+
+#przegladaj
+{
+float: auto;
+margin-left: 370px;
+}
+
+#logo2
+{
+background-color: white;
+color: #164aa0;
+text-align: center;
+padding: 8px;
+float: center;
+} 
+
+#logo22
+{
+background-color: white;
+color: #164aa0;
+text-align: center;
+padding: 1px;
+float: center;
+font-size: 18pt;
+} 
+
+#logo5
+{
+background-color: white;
+color: #164aa0;
+padding: 8px;
+margin: left;
+text-align: center;
+}
+
+
+#main
+{
+float: left;
+width: 7px;
+height: 8px;
+margin-left: 900px;
+font-size: 8pt;
+color: #164aa0;
+}
+
+#tabela
+{
+background-color: white;
+color: #164aa0;
+margin: right;
+
+}
+
+#logo5
+{
+background-color: white;
+color: #164aa0;
+padding: 8px;
+margin: left;
+text-align: center;
+}
+
+#rodzajformularza
+{
+float: left;
+margin-left: 8px;
+font-size: 8pt;
+color: #164aa0;
+}
+#logo5
+{
+background-color: white;
+color: #164aa0;
+
+padding: 8px;
+float: left;
+}
+
+#rodzajformularza2
+{
+float: left;
+margin-left: 1px;
+font-size: 8pt;
+color: #164aa0;
+}
+
+#logindivleft
+{
+float: left;
+margin-left: 200px;
+color: #164aa0;
+font-size: 10pt;
+}
+.centered { margin: auto; width: 1270px; }
+
+.centered2 { margin: auto; width: 1300px; }
+
+.centered2 { margin: auto; width: 1200px; }
+
+
+#zaloguj
+{
+float: right;
+width: 7px;
+height: 8px;
+margin-left: 90px;
+font-size: 8pt;
+color: #164aa0;
+}

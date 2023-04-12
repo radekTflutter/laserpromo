@@ -1,0 +1,171 @@
+
+
+
+form
+{
+    margin-bottom: 20px;
+}
+
+table
+{
+    border-spacing: 0;
+}
+
+th, td
+{
+    border: 1px solid white;
+    padding: 5px;
+    text-align: center;
+}
+#panel2{
+width: 410px; 
+margin: 0 auto; 
+padding: 15px 0 0;
+background: #fff;
+border: 1px solid silver;
+font: 16px calibri;
+letter-spacing: -1px;
+-webkit-box-shadow: 0 0 2px silver; 
+-moz-box-shadow: 0 0 2px silver; 
+box-shadow: 0 0 2px silver;
+}
+
+form{
+display: block;
+width: 260px;
+padding: 10px 25px;
+color: #696969;
+font-size: 16px;
+text-shadow: 0 0 1px blue;
+}
+
+#formularz2, #wyswietlanie2 
+{
+display: block;
+width: 360px; 
+margin: 0 auto;
+padding: 10px 0px;
+border: 1px solid silver;
+outline: 5px solid #ebebeb;
+font-size: 22px;
+}
+#formularz2:focus, #wyswietlanie2:focus 
+{
+outline: 5px solid #e5f2f8;
+}
+
+.check {
+display: inline;
+float: none;  
+font-size: 11px;
+padding: 5px;
+}
+input[type="submit"] {
+width: 70px;
+padding: 5px 13px;
+border: 1px solid #005f85;
+color: white;
+text-shadow: 0 0 1px black;
+background: #98c9dc;
+position: relative;
+left: -15px;
+}
+
+input[type="file"] {
+width: 170px;
+padding: 5px 13px;
+border: 1px solid #005f85;
+color: white;
+text-shadow: 0 0 1px black;
+background: #98c9dc;
+position: center;
+left: -15px;
+}
+
+#wstecz
+{
+padding: 0px 10px;
+margin: 100 auto;
+float: 20px; 
+}
+
+#zalogujsie
+{
+padding: 5px 30px;
+float: 40px; 
+}
+
+#pic
+{
+float: center;
+text-align: center;
+}
+
+button[type="submit"] {
+width: 170px;
+padding: 5px 13px;
+border: 1px solid #005f85;
+color: white;
+text-shadow: 0 0 1px black;
+background: #98c9dc;
+position: center;
+left: -15px;
+}
+
+#panel2, input[type="submit"] {
+    -webkit-border-radius: 5px; 
+    -moz-border-radius: 5px; 
+    border-radius: 5px; 
+}
+
+
+form {
+margin: 0;
+}
+
+#logindiv
+{
+float: left;
+width: 7px;
+height: 8px;
+margin-left: 70px;
+font-size: 8pt;
+color: #164aa0;
+}
+
+#logo2
+{
+background-color: white;
+color: #164aa0;
+text-align: center;
+padding: 8px;
+float: center;
+} 
+
+#main
+{
+float: left;
+width: 7px;
+height: 8px;
+margin-left: 900px;
+font-size: 8pt;
+color: #164aa0;
+}
+
+#logindivleft
+{
+float: left;
+margin-left: 200px;
+color: #164aa0;
+font-size: 10pt;
+}
+
+#zaloguj
+{
+float: right;
+width: 7px;
+height: 8px;
+margin-left: 90px;
+font-size: 8pt;
+color: #164aa0;
+}
